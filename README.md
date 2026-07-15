@@ -25,7 +25,7 @@ My background spans:
 
 **Measuring the causal impact of marketing interventions using observational data**
 
-In marketing, the key question isn't "did users who saw our ad convert?" — it's "did our ad *cause* additional conversions?" This project demonstrates causal inference techniques to estimate true incremental lift.
+In marketing, the key question isn't "did users who saw our ad convert?". It's "did our ad *cause* additional conversions?" This project demonstrates causal inference techniques to estimate true incremental lift.
 
 | Aspect | Details |
 |--------|---------|
@@ -114,7 +114,7 @@ Marketing budgets are finite. This project builds LTV models to identify high-va
 
 ## Contact
 
-I'm currently exploring **Data Scientist roles in marketing measurement, experimentation, and growth analytics** — particularly in ad-tech, fintech, and consumer tech.
+I'm currently exploring **Data Scientist roles in marketing measurement, experimentation, and growth analytics**, particularly in ad-tech, fintech, and consumer tech.
 
 - 📧 [elainelyl18@gmail.com](mailto:elainelyl18@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/elaine-lyl)
